@@ -24,13 +24,6 @@ order_history = client.get_order_history("ETH-XRP")
 
 ```
 
-To setup development environment using conda:
-
-```bash
-
-conda create --name pycrybittrex --file requirements.txt
-
-```
 
 
 
