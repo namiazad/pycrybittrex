@@ -1,0 +1,15 @@
+package:
+    name: pycrybittrex
+    version: 0.4.0
+
+source:
+    url: https://github.com/namiazad/pycrybittrex/archive/0.4.0.tar.gz
+
+requirements:
+    build:
+        - python
+        - requests
+		- urllib3
+    run:
+        - python
+
