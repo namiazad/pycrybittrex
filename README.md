@@ -6,6 +6,14 @@ pip3 install pycrybittrex
 
 ```
 
+or with conda
+
+```
+
+conda install -c namiazad pycrybittrex
+
+```
+
 Usage example:
 
 ```python
