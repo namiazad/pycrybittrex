@@ -9,7 +9,7 @@ setup(
     author_email = 'nami.nasserazad@gmail.com',
     install_requires=['requests', 'urllib3'],
     url = 'https://github.com/namiazad/pycrybittrex',
-    download_url = 'https://github.com/namiazad/pycrybittrex/archive/0.1.0.tar.gz',
+    download_url = 'https://github.com/namiazad/pycrybittrex/archive/0.4.0.tar.gz',
     keywords = ['python', 'bittrex'],
     classifiers = [],
 )
