@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'pycrybittrex',
-    version = '0.3.3',  # Ideally should be same as your GitHub release tag varsion
+    version = '0.4.0',  # Ideally should be same as your GitHub release tag varsion
     packages = find_packages(),
     description = 'bittrex python client',
     author = 'namiazad',
